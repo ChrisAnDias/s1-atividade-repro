@@ -11,5 +11,6 @@ Ao que posso perceber, HTML e CCS são duas linguages muito difundidads utilizad
 
 **Links de referência para a pesquisa**: 
 [Fórum perguntas e respostas ALURA](https://cursos.alura.com.br/forum/topico-linguagem-de-programacao-x-linguagem-de-marcacao-38394)
-[Guia para iniciantes do GitHub](https://tableless.github.io/iniciantes/manual/html/)(https://tableless.github.io/iniciantes/manual/css/index.html)
+[Guia para iniciantes do GitHub-HTML](https://tableless.github.io/iniciantes/manual/html/)
+[Guia para iniciantes do GitHub-CSS](https://tableless.github.io/iniciantes/manual/css/index.html)
 [Artigo Treina Web](https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-html-e-css/)
