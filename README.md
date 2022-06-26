@@ -1,5 +1,12 @@
-# Tema escolhido: 
-## HTML + CSS
+# Atividade semana 1 - Reprograma. Curso Back-End.
+## Escolher um tema sugerido em aula e escrever um README.md a respeito do tema.
+### Objetivo: Introduzir temas ligadados a tecnologia - Treinar fluência com GitHut e linguagem no README.md
+<br>
+
+### Tema escolhido: HTML + CSS <br>
+<br>
+
+**Desenvolvimento** <br>
 
 Nem HTML e nem CSS **não** são linguagens de programação. Esse é um primeiro ponto que gostaria de deixar claro. <br/>
 Não são linguagens de programação porque **não geram dados**. <br/>
